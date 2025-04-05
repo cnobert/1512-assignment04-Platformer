@@ -1,6 +1,6 @@
 # 1512-assignment04-Platformer
  
-The lab is out of a total of 10 marks. 
+The lab is out of 10 marks. 
 
 -   (2 marks) Create a platformer game that has a main character and a whole bunch of platforms. 
 -   (2 marks) The game should have a goal that, when achieved, ends the game. 
