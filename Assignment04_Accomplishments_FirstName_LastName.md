@@ -1,6 +1,6 @@
 # 1512-assignment04-Platformer
 
-<b>Requirements</b> (25 marks total) - Create a pinball game: 
+<b>Requirements</b> (10 marks total) - Create a platformer game: 
 
 -   (2 marks) Create a platformer game that has a main character and a whole bunch of platforms. <span style="color:green">[COMPLETE/INCOMPLETE/PARTIALLY COMPLETE]</span>
 -   (2 marks) The game should have a goal that, when achieved, ends the game. <span style="color:green">[COMPLETE/INCOMPLETE/PARTIALLY COMPLETE]</span>
